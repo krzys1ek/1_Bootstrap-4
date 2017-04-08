@@ -1,2 +1,16 @@
+html,
+body {
+  height: 100%; }
 
-/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJzdHlsZS5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiIl0sImZpbGUiOiJzdHlsZS5jc3MifQ== */
+#cover {
+  background: #222 url("img/stars.jpg") center center no-repeat;
+  background-size: cover;
+  height: 100%; }
+
+form {
+  justify-content: center; }
+
+.col-sm-offset-1 {
+  text-align: center; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJzdHlsZS5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiaHRtbCxcbmJvZHkge1xuICBoZWlnaHQ6IDEwMCU7IH1cblxuI2NvdmVyIHtcbiAgYmFja2dyb3VuZDogIzIyMiB1cmwoXCJpbWcvc3RhcnMuanBnXCIpIGNlbnRlciBjZW50ZXIgbm8tcmVwZWF0O1xuICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyO1xuICBoZWlnaHQ6IDEwMCU7IH1cblxuZm9ybSB7XG4gIGp1c3RpZnktY29udGVudDogY2VudGVyOyB9XG5cbi5jb2wtc20tb2Zmc2V0LTEge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7IH1cbiJdLCJmaWxlIjoic3R5bGUuY3NzIn0= */
